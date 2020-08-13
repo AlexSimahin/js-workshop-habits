@@ -12,7 +12,7 @@
     Исходник
 </h3>
 <p align="center">
-    https://github.com/Lectrum/js-workshop-habits
+    [https://github.com/Lectrum/js-workshop-habits](https://github.com/Lectrum/js-workshop-habits)
 </p>
 <br>
 
