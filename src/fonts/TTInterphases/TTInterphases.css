@@ -1,0 +1,21 @@
+
+@font-face {
+	font-family: 'TTInterphases-DemiBold';
+	src: local('TTInterphases DemiBold'), local('TTInterphases-DemiBold'), url('3A94D0_13_0.woff2') format('woff2');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'TTInterphases-Medium';
+	src: local('TTInterphases Medium'), local('TTInterphases-Medium'), url('3A94D0_10_0.woff2') format('woff2');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'TTInterphases-Bold';
+	src: local('TTInterphases Bold'), local('TTInterphases-Bold'), url('3A94D0_5_0.woff2') format('woff2');
+	font-weight: 700;
+	font-style: normal;
+}
