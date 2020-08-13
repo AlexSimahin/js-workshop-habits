@@ -19,6 +19,17 @@
 </div>
 <br>
 
+<h3 align="center">
+    Ссылка на мой сайт — ДЗ
+</h3>
+
+<div align="center">
+    <a href="https://alexsimahin.github.io/js-workshop-habits/" target="_blank" rel="nofollow noopener noreferrer">
+        https://alexsimahin.github.io/js-workshop-habits/
+    </a>
+</div>
+<br>
+
 ### Лицензия
 
 MIT © [Lectrum](https://lectrum.io)
