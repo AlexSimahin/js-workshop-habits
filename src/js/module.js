@@ -171,6 +171,6 @@ const storage = [];
     initTime();
 }
 
-// setInterval(() => {
-//     console.log(storage);
-// }, 2000);
+setInterval(() => {
+    console.log(storage);
+}, 2000);
