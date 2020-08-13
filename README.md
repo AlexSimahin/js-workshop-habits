@@ -11,9 +11,9 @@
 <h3 align="center">
     Исходник
 </h3>
-<p align="center">
-    [https://github.com/Lectrum/js-workshop-habits](https://github.com/Lectrum/js-workshop-habits)
-</p>
+<a href="https://github.com/Lectrum/js-workshop-habits" target="_blank" rel="nofollow noopener noreferrer" align="center">
+    https://github.com/Lectrum/js-workshop-habits
+</a>
 <br>
 
 ### Лицензия
